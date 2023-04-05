@@ -1,4 +1,4 @@
-### Hi there 👋 I am a 5th year BS-MS student, currently doing a thesis on the study of event-by-event fluctuations in heavy ion collisions. I am highly motivated to pursue research. I am currently looking for PhD opportunities in particle physics.
+### Hi there 👋 I am a 5th year BS-MS student doing a thesis on the study of event-by-event fluctuations in heavy ion collisions. I am currently looking for PhD opportunities in particle physics.
 
 <!--
 **AthiraSreejith25/AthiraSreejith25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
