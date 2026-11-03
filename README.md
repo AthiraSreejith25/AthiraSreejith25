@@ -1,4 +1,4 @@
-### Hi there 👋 I am a BS-MS Physics and Data Science graduate from [IISER Mohali](https://iisermohali.ac.in/). I did my thesis on the study of event-by-event fluctuations in heavy ion collisions. Check out my [website](https://athirasreejith25-personal-website-home-twvwda.streamlit.app/) to know more about me.
+### Hi there 👋 I am a PhD student at [Bergische Universität Wuppertal](https://www.uni-wuppertal.de/), currently working on Strangeness Fluctuations at the HADES experiment. I am a BS-MS Physics and Data Science graduate from [IISER Mohali](https://iisermohali.ac.in/). Check out my [website](https://athirasreejith25-personal-website-home-twvwda.streamlit.app/) to know more about me.
 
 <!--
 **AthiraSreejith25/AthiraSreejith25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
